@@ -1,0 +1,15 @@
+{
+  "name": "project-2-usho",
+  "version": "1.0.0",
+  "description": "building weather app like this https://weather-web-9uot.onrender.com/",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}

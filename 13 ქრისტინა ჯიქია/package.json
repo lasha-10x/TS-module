@@ -1,0 +1,15 @@
+{
+  "name": "project-13-jiqia",
+  "version": "1.0.0",
+  "description": "A modern and responsive weather forecast website that allows users to check current weather and forecasts based on their location or a searched city. Built using HTML, SCSS, and JavaScript, it integrates with the OpenWeatherMap API for real-time weather data.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}

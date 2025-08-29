@@ -1,0 +1,15 @@
+{
+  "name": "project-9-nineli",
+  "version": "1.0.0",
+  "description": "A JavaScript weather app that fetches current weather and 5-day forecast data using the **OpenWeather API**. The app includes:",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}

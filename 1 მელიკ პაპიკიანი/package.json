@@ -1,0 +1,15 @@
+{
+  "name": "project-1-melik",
+  "version": "1.0.0",
+  "description": "Responsive weather app that displays current weather conditions and multi-day forecast using a public API.   Built with HTML, CSS, and JavaScript.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}

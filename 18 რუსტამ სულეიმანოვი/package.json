@@ -1,0 +1,15 @@
+{
+  "name": "project-19-rustam",
+  "version": "1.0.0",
+  "description": "პროექტის ასატვირთად გამოვიყენე **Git**.   ქვემოთ მოცემულია ზუსტად ის ბრძანებები, რომლებიც გამოვიყენე:",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
